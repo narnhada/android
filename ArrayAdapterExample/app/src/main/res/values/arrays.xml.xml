@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_list">
+        <item>IceCreamSandwich</item>
+        <item>Kikat</item>
+        <item>JellyBean</item>
+        <item>LolliPop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+    </string-array>
+</resources>
